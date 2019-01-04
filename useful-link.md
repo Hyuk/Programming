@@ -1,4 +1,4 @@
-# Tutorials
+# Python Tutorials
 
 [The Python Bible | Everything You Need to Program in Python](https://hackr.io/tutorials/learn-python)
 
