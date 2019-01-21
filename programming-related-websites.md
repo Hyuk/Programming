@@ -13,3 +13,7 @@
 * [CS50's Web Programming with Python and JavaScript](https://www.class-central.com/course/edx-cs50-s-web-programming-with-python-and-javascript-11506)
 
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning#javascript)
+
+* [CS50's Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/)
+
+* [EDWITH - Naver E-Learning](https://www.edwith.org/)
