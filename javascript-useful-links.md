@@ -5,3 +5,5 @@
 * [10 Simple & Effective tips to master JavaScript](https://medium.com/@trungluongquang/10-simple-effective-tips-to-master-javascript-c365aa176852)
 
 * [Let’s clear up the confusion around the slice( ), splice( ), & split( ) methods in JavaScript](https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae)
+
+* [Build 30 things in 30 days with 30 tutorials](https://javascript30.com/)
