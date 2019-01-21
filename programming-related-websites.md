@@ -5,3 +5,5 @@
 * [WEEX - A framework for building Mobile cross-platform UIs](https://weex.incubator.apache.org/)
 
 * [Node.js](https://nodejs.org/)
+
+* [Chamaileon - News letter Composer](https://app.chamaileon.io/)
