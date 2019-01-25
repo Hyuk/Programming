@@ -5,3 +5,5 @@
 * [Build an e-commerce site from scratch using React and Netlify](https://www.freecodecamp.org/news/react-tutorial-ecomerce-site/)
 
 * [The Beginner’s Guide to React](https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c)
+
+* [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d)
