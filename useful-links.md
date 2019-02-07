@@ -7,3 +7,5 @@
 * [Top 3 most popular programming languages in 2018 (and their annual salaries)](https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06)
 
 * [Animate web page elements with Keyframes](https://medium.com/udacity-google-india-scholars/animate-web-page-elements-with-keyframes-85f90a9ab31a)
+
+* [Release Radar · January 2019](https://github.blog/2019-02-05-release-radar-january-2019/)
